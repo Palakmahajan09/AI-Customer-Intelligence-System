@@ -9,6 +9,15 @@
 
 ---
 
+## 🛠️ Tech Stack
+- Python (Pandas, NumPy, Scikit-learn)  
+- Power BI  
+- SQL (for data querying and analysis)  
+- Git & GitHub  
+- Dataset: Olist E-commerce Dataset
+
+---  
+
 ## 🤖 Machine Learning Model
 - Model Used: Random Forest Classifier  
 - Goal: Predict customer churn (Active vs Churned)  
@@ -16,6 +25,17 @@
   - Recency
   - Frequency
   - Monetary  
+
+---
+
+## 🗄️ SQL Analysis
+Basic SQL queries were written to perform key business analysis such as:
+- Total revenue calculation  
+- Customer segmentation  
+- Revenue by payment type  
+- Top customers by spending  
+
+These queries are available in the `sql/analysis_queries.sql` file.
 
 ---
 
